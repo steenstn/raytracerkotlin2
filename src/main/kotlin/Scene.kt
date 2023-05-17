@@ -1,0 +1,1 @@
+class Scene(val meshes : List<Mesh>, val cameraPosition : Vector, val cameraDirection : Vector, val ambientColor: Vector)
